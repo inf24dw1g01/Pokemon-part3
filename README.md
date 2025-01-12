@@ -18,5 +18,5 @@ A PokemonAPI é um sistema de criação de teams , pokemons , tipos e trainers d
 -React
 
 ## Group 01
-* Rafael Oliveira [@RafaelPiOliveira] (https://github.com/RafaelOPiOliveira)
-* Guilherme Almeida [@Guilherme] (https://github.com/RafaelOPiOliveira)
+* Rafael Oliveira A042611 [@RafaelPiOliveira] (https://github.com/RafaelOPiOliveira)
+* Guilherme Almeida A040435 [@Guilherme] (https://github.com/RafaelOPiOliveira)
